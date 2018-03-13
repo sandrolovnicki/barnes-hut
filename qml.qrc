@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/2aae0e25c02fe03e8b22437d69d6802c.png</file>
+        <file>img/asteroid-huge.png</file>
+        <file>img/asteroid.png</file>
+        <file>img/BlueSpace.jpg</file>
+    </qresource>
+</RCC>
